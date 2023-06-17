@@ -1,6 +1,6 @@
 # lancemeuptask
 
-  technologies and tools used : tailwinCSS, formik Validation, react Router 
+  technologies and tools used : tailwindCSS, formik and yup for validation, ReactRouter 
 
 
 #validation Image
